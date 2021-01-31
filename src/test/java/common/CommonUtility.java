@@ -22,7 +22,7 @@ import io.appium.java_client.touch.offset.PointOption;
 
 public class CommonUtility {
 	
-	//This is a common utility class for re-usable functions
+	//This is a common utility class for reusable functions
 	
 	public DesiredCapabilities caps = new DesiredCapabilities();
 	public Properties properties;
